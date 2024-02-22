@@ -55,7 +55,11 @@ This graph measures the hourly PNL rate of each team. We where `team-028`, and y
 
 ## Things to Improve
 
-Overall, the performance of this strategy was excellent. The 2 teams that had a higher position at the end of the competition were usign a similar strategy, but also trading indices. 
+Overall, the performance of this strategy was excellent. The 2 teams that had a higher position at the end of the competition were usign a similar strategy, but also trading indices. We were not aware that index trading was a part of the competition, but we should have spent more time on fully understanding all the possible options allowed.
+
+Nevertheless, we this meant that we had the best strategy for purely trading options and futures, and if we had extrapolated the strategy to indices, we could have vastly improved our overall performance. 
 
 Also, the active strategy could be improved by taking arbitrage oportunities between options futures and underlying stocks, taking Black Sholes as the relation between those. This was not done as active trading was a minimal part of our PNL, and choose to focus on improving the passive strategy.
+
+
 
