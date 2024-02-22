@@ -25,7 +25,7 @@ Another key aspect is the way we maintain the portfolio [Delta Neutral](https://
 
 ## Code
 
-Some of the functions in the code rely on *Optibook* library, but the core idea of the Strategy is fully interchangable to any other environment.  
+Some of the functions in the code rely on *Optibook* library, but the core idea of the Strategy is fully interchangable to any other environment. The code is attached in the github repo as `algo.py`.
 
 
 There are 2 main functions to take an action in a given orderbook: 
