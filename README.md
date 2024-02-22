@@ -62,4 +62,6 @@ Nevertheless, we this meant that we had the best strategy for purely trading opt
 Also, the active strategy could be improved by taking arbitrage oportunities between options futures and underlying stocks, taking Black Sholes as the relation between those. This was not done as active trading was a minimal part of our PNL, and choose to focus on improving the passive strategy.
 
 
-
+<div style="text-align: center;">
+    <img src="assets/graph.jpg" width="500" height="400">
+</div>
